@@ -1,0 +1,23 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "Random server fun!",
+  "main": "twoPortServer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantBello/ServerFun.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantBello/ServerFun/issues"
+  },
+  "homepage": "https://github.com/BryantBello/ServerFun#readme"
+}
